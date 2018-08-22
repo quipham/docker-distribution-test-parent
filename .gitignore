@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+.DS_Store
+
+# Log Files
+logs/
+*.log
+
+# Inteligi files
+.idea/
+target/
+
+reports/
+
